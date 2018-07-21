@@ -81,7 +81,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 1}
+  m_Color: {r: 0.73333335, g: 0.81960785, b: 1, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -108,7 +108,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Button1: {fileID: 114742429758865650}
-  Room2: {fileID: 0}
+  Room2: {fileID: 1511035431444668, guid: 961042fe0464c244e8e5167ce1cdf4ae, type: 2}
   Parent: {fileID: 1657625029255226}
 --- !u!114 &114126757809452246
 MonoBehaviour:
@@ -127,7 +127,7 @@ MonoBehaviour:
     m_SelectOnDown: {fileID: 0}
     m_SelectOnLeft: {fileID: 0}
     m_SelectOnRight: {fileID: 0}
-  m_Transition: 1
+  m_Transition: 0
   m_Colors:
     m_NormalColor: {r: 0.73547816, g: 0.5707547, b: 1, a: 1}
     m_HighlightedColor: {r: 0, g: 0.86256146, b: 1, a: 1}
@@ -157,7 +157,7 @@ MonoBehaviour:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1657625029255226}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
   m_Name: 
@@ -183,7 +183,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Pizza                                Piano
+  m_Text: 
 --- !u!114 &114689374080346004
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -196,7 +196,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Button1: {fileID: 114126757809452246}
-  Room2: {fileID: 0}
+  Room2: {fileID: 1125820704767938, guid: df36b4f22ffc90c42a2b67a3231fbecc, type: 2}
   Parent: {fileID: 1657625029255226}
 --- !u!114 &114742429758865650
 MonoBehaviour:
@@ -215,7 +215,7 @@ MonoBehaviour:
     m_SelectOnDown: {fileID: 0}
     m_SelectOnLeft: {fileID: 0}
     m_SelectOnRight: {fileID: 0}
-  m_Transition: 1
+  m_Transition: 0
   m_Colors:
     m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
     m_HighlightedColor: {r: 0, g: 0.17519331, b: 1, a: 1}
@@ -288,7 +288,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 10306, guid: 0000000000000000f000000000000000, type: 0}
-  m_Color: {r: 0.5943396, g: 0.0028034954, b: 0.014758034, a: 1}
+  m_Color: {r: 0.0036325455, g: 0, b: 1, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
